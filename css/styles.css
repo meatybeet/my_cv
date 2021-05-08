@@ -1,0 +1,133 @@
+body {
+    color: #40514e;
+    background-color: #9DAFB8;
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Itim', cursive;
+    color: #581845;
+}
+
+a:hover {
+    color: #B3B6B7;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 15px;
+    color: #581845;
+}
+
+h3 {
+    color: #900C3F;
+    font-family: 'Itim', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+div {
+    background-color: #9DAFB8;
+}
+
+hr {
+    border: dotted 6px;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+    width: 4%;
+}
+
+.myski {
+    font-size: 50px;
+    font-family: 'Itim', cursive;
+}
+
+.middle-container {
+    margin-top: 50px;
+}
+
+.images, .imga {
+    display: inline-block;
+}
+
+.imga {
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.imgb {
+    position: absolute;
+    left: 200px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+}
+
+.sk {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.sk1 {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.get, .contact-me {
+    margin-bottom: 100px;
+}
+
+.bottom-container {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #D0D3D4;
+    padding-bottom: 50px;
+}
+
+.btn {
+    box-shadow: 3px 4px 0px 0px #899599;
+    background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color: #ededed;
+    border-radius: 10px;
+    border: 1px solid #d6bcd6;
+    display: inline-block;
+    cursor: pointer;
+    color: #581845;
+    font-family: 'Itim', cursive;
+    font-size: 12px;
+    padding: 7px 25px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #e1e2ed;
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom, #515A5A 5%, #581845 100%);
+    background-color: #bab1ba;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}
+
+.footer-link {
+    margin-left: 20px;
+}
+
+.cpr {
+    width:40%;
+    margin:30px auto 0 ;
+    color: white;
+    right: 580px;
+}
